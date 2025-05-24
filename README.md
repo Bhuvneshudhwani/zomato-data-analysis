@@ -35,6 +35,4 @@ I'm **Bhuvnesh Udhwani**, an aspiring Data Analyst with skills in Power BI, Exce
 
 ![Dashboard with Highlights] 
 https://github.com/Bhuvneshudhwani/zomato-data-analysis/blob/main/Zomato%20Analysis%20Dashboard.png
-
-- : 
-- GitHub: 
+ 
